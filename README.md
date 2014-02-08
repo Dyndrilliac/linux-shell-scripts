@@ -7,3 +7,5 @@
 *******************************************************************
 
 * Disk Report (dskrep.sh): This script analyses your disk to figure out how much free disk space you have. In addition, the script identifies your 10 largest directories. It can display this information in the terminal or save the output to a plain-text file.
+* Mangle Word-list (mangle.sh): Apply word mangling rules to a plain-text format list of words using John The Ripper, remove any duplicates, and then output the new list to a new plain-text file.
+* Update System (update.sh): Clean up installed software, pull updates, and purge any packages no longer being used.
