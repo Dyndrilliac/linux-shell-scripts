@@ -12,4 +12,4 @@ sudo apt-get -f install
 sudo apt-get update
 sudo apt-get dist-upgrade
 # Purge packages no longer being used.
-sudo dpkg -l | sudo grep '^rc' | sudo awk '{print $2}' | sudo xargs dpkg --purge
+sudo dpkg -l | sudo grep '^rc' | sudo awk '{print $2}' | xargs sudo dpkg --purge
