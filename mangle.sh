@@ -1,6 +1,6 @@
 #!/bin/bash
 ##############################################################
-# Apply Mangling Rules to a Word List (using John The Ripper #
+# Apply Mangling Rules to a Word List using John The Ripper  #
 # Author: Dyndrilliac (Matthew Boyette)                      #
 # Date:   11/21/2012                                         #
 ##############################################################
